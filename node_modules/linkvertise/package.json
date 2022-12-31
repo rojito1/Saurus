@@ -1,0 +1,23 @@
+{
+  "name": "linkvertise",
+  "version": "1.0.1",
+  "description": "Linkvertise is an easy-to-use NPM package that shorten Linkvertise.com links automatically for you!",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bachar Souhail",
+  "license": "MIT",
+  "dependencies": {
+    "btoa": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BacharSouhail/Linkvertise"
+  },
+  "bugs": {
+    "url": "https://github.com/BacharSouhail/Linkvertise/issues"
+  },
+  "homepage": "https://github.com/BacharSouhail/Linkvertise#readme"
+}
